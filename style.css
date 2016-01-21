@@ -27,9 +27,9 @@ body {
 	position:relative;
 }
 
-.textbox {
-	width:800px;
-	height:400px;
+.subtitletextbox {
+	width:400px;
+	height:20px;
 	color:white;
 	position:absolute;
 	top:460px;
@@ -37,3 +37,23 @@ body {
 	font-size:1.2em;
 	font-weight:bold;
 }
+
+.textboxleft {
+	width:400px;
+	height:500px;
+	position:absolute;
+	top:20px;
+	left:17px;
+	text-align:right;
+	font-size:1.1em;
+}
+
+
+
+.textboxright {
+	width:390px;
+	height:500px;
+	position:absolute;
+	top:20px;
+	left:570px;
+	font-size:1.1em;}
